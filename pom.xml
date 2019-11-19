@@ -8,5 +8,18 @@
     <artifactId>appium-best-practices</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+   <dependencies>
+       <!-- https://mvnrepository.com/artifact/io.appium/java-client -->
+       <!-- https://mvnrepository.com/artifact/io.appium/java-client -->
+       <dependency>
+           <groupId>io.appium</groupId>
+           <artifactId>java-client</artifactId>
+           <version>7.3.0</version>
+       </dependency>
+
+
+
+   </dependencies>
+
 
 </project>
